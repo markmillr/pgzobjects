@@ -1,6 +1,4 @@
-"""Class library from the introductory book.
-
-This module exports two classes ``Stage`` and ``GameObj`` and
+"""This module exports two classes ``Stage`` and ``GameObj`` and
 a global object ``mouse_state``.
 
 Also this module implements all hook methods of Pygame Zero,
