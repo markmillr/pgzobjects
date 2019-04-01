@@ -8,3 +8,5 @@ A Stage object is useful for configuring a game to have multiple scenes.
 A GameObj object makes it possible to remove Actor objects from the stage (for example, if an Actor is killed).
 
 To use this module, clone this repository and copy pgzobjects.py into your project's root directory. Then in your Python code you can make use of these custom classes with an ```import pgzobjects``` statement.
+
+If you like, you can abbreviate this module's title as ```pgzo``` by writing the module import statement as ```import pgzobjects as pgzo```.
